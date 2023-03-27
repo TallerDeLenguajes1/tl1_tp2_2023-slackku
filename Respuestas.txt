@@ -10,4 +10,4 @@ En un principio no se puede ver el archivo tp2_1_2.c debido a que se encuentra e
 Se puede observar el avance de los commit en la rama main.
 - Ejecucion del comando gitk --all
 ¿Qué nota?
-La fusion entre la rama main con la rama Opcion_2.
+Se observa la fusion entre la rama main con la rama Opcion_2.
