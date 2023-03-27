@@ -1,10 +1,9 @@
 // NOTA: los "-" hace referencia a los pasos seguidos; los "//" son comentarios sobre lo comentado al lado de los mismos y/o notas generales; "()" son aclaraciones.
-// A su vez se genero 
 
 Apartado f. (desde main branch)
 ¿Puede ver el archivo tp2_1_2.c? ¿Por qué? 
 En un principio no se puede ver el archivo tp2_1_2.c debido a que se encuentra en otra branch del repositorio.
-- Se añade el archivo Respuestas.txt con su commit correspondiente // se cometio un error al comienzo de la realizacion del ejercicio y lo pushee al repo de GitHub.
+- Se añade el archivo Respuestas.txt con su commit correspondiente // se cometio un error al comienzo de la realizacion del ejercicio y lo pushee al repo de GitHub. Sin embargo se pudo ver bien lo que el punto queria mostrar.
 - Ejecucion del comando gitk --all
 ¿Qué diferencias nota?
 Se puede observar el avance de los commit en la rama main.
