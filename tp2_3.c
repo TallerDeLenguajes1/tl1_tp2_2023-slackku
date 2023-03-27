@@ -15,7 +15,7 @@ void main()
         {
             *pMt + i + j; 
             *pMt = 1 + rand() % 100;
-            printf("%d ", (*pMt + i + j));
+            printf(" %d ", (*pMt + i + j));
         }
         printf("\n");
     }
